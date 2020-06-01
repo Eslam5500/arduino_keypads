@@ -77,7 +77,7 @@ private:
 	word pinState;
 	TwoWire *_wire;
 };
-
+  
 
 
 #endif // KEYPAD_I2C_H
